@@ -37,5 +37,9 @@ Want to create a totally different design? Try tweaking these variables in the s
 | `h += 0.003` | Change the increment (e.g., `0.001` or `0.01`) | Controls how quickly the color shifts. |
 | `rt(10)` | Change the rotation (e.g., `rt(11)` or `rt(5)`) | Creates different overall spiral shapes. |
 
+##  Attribution
+
+The base structure for the rotating spiral pattern was adapted from a tutorial by Monuinstitute on YouTube: https://youtube.com/shorts/q1tAxvnVVN8?si=xwt9iIyFtp70dmT8
+
 -----
 
