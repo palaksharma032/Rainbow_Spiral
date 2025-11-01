@@ -24,6 +24,8 @@ You only need a standard Python installation to run this.
     ```
 
 A new window will open, and the pattern will begin to draw itself\!
+<img width="1275" height="717" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/67952834-bd82-4a61-85d7-d52a75e0e960" />
+
 
 ###  Experimentation
 
